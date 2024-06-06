@@ -133,7 +133,7 @@
   <aside id="sidebar" class="sidebar">
     <ul class="sidebar-nav" id="sidebar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="dashboard.html">
+        <a class="nav-link" href="/dashboard">
           <i class="bi bi-grid"></i>
           <span>Dashboard</span>
         </a>
@@ -152,22 +152,22 @@
             </a>
             <ul id="solve-nav" class="nav-content collapse" data-bs-parent="#tables-nav">
               <li>
-                <a href="permintaan_masuk.html">
+                <a href="/permintaan_masuk">
                   <i class="bi bi-circle"></i><span>Permintaan Masuk</span>
                 </a>
               </li>
               <li>
-                <a href="dikerjakan.html">
+                <a href="/dikerjakan">
                   <i class="bi bi-circle"></i><span>Dikerjakan</span>
                 </a>
               </li>
               <li>
-                <a href="history_pekerjaan.html">
+                <a href="/history_pekerjaan">
                   <i class="bi bi-circle"></i><span>History Pekerjaan</span>
                 </a>
               </li>
               <li>
-                <a href="pekerjaan_selesai.html">
+                <a href="/pekerjaan_selesai">
                   <i class="bi bi-circle"></i><span>Pekerjaan Selesai</span>
                 </a>
               </li>
@@ -181,12 +181,12 @@
             </a>
             <ul id="solve-nav" class="nav-content collapse" data-bs-parent="#tables-nav">
               <li>
-                <a href="hardware.html">
+                <a href="/hardware">
                   <i class="bi bi-circle"></i><span>Tambah Data Aset (Hardware)</span>
                 </a>
               </li>
               <li>
-                <a href="software.html">
+                <a href="/software">
                   <i class="bi bi-circle"></i><span>Tambah Data Aset (Software)</span>
                 </a>
               </li>
@@ -200,12 +200,12 @@
             </a>
             <ul id="solve-nav" class="nav-content collapse" data-bs-parent="#tables-nav">
               <li>
-                <a href="permintaan_perbaikan.html">
+                <a href="/permintaan_perbaikan">
                   <i class="bi bi-circle"></i><span>Permintaan Perbaikan</span>
                 </a>
               </li>
               <li>
-                <a href="tindaklanjut_perbaikan.html">
+                <a href="/tindaklanjut_perbaikan">
                   <i class="bi bi-circle"></i><span>Tindaklanjut Perbaikan</span>
                 </a>
               </li>

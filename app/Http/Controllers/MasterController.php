@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class MasterController extends Controller
 {
 public function index() {
-    return view('master.welcome');
+    return view('master.landing');
 }
 public function login() {
     return view('master.auth-login-basic');
@@ -54,11 +54,11 @@ public function permintaan_masuk() {
 public function permintaan_perbaikan() {
     return view('master.permintaan_perbaikan');
 }
-public function reques_user() {
-    return view('master.reques_user');
+public function request_user() {
+    return view('master.request_user');
 }
-public function sofware() {
-    return view('master.sofware');
+public function software() {
+    return view('master.software');
 }
 public function tindaklanjut_perbaikan() {
     return view('master.tindaklanjut_perbaikan');

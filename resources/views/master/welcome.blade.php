@@ -60,7 +60,7 @@
               <!-- login -->
               <form id="formAuthentication" class="mb-3" action="index.html" method="POST">
                 <div class="mb-3" style="text-align: center">
-                  <a href="/auth-login-basic" type="button" class="btn btn-rounded mb-3" style="background-color: #525ceb; color: white; width: 3 0%">Login User</a>
+                  <a href="#" type="button" class="btn btn-rounded mb-3" style="background-color: #525ceb; color: white; width: 3 0%">Login User</a>
                 </div>
               </form>
               <!-- /login -->

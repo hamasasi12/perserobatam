@@ -23,6 +23,6 @@ Route::get('/landing', [MasterController::class,'landing']);
 Route::get('/pekerjaan_selesai', [MasterController::class,'pekerjaan_selesai']);
 Route::get('/permintaan_masuk', [MasterController::class,'permintaan_masuk']);
 Route::get('/permintaan_perbaikan', [MasterController::class,'permintaan_perbaikan']);
-Route::get('/reques_user', [MasterController::class,'reques_user']);
+Route::get('/request_user', [MasterController::class,'request_user']);
 Route::get('/software', [MasterController::class,'software']);
 Route::get('/tindaklanjut_perbaikan', [MasterController::class,'tindaklanjut_perbaikan']);
